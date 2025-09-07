@@ -1,1 +1,0 @@
-Filename: Camera.png
